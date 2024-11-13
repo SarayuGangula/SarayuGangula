@@ -14,7 +14,7 @@
 * Hangman Game
 * Chat Application
 * Relocation Analyst
-* College Connect App
+* College Connect Website
 
 ### Hobbies:
 * Photography
